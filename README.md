@@ -8,7 +8,7 @@ This is a step-by-step project that guides you through the creation of both Wind
 - A <a href="https://azure.microsoft.com/en-us/free/">Microsoft Azure account</a>
 <h2>🖥️ Environments & Tools Used</h2>
 
-- Microsoft Azure (Portal)
+- Microsoft Azure
 
 <h2>🧑‍💻 Operating Systems Used</h2>
 

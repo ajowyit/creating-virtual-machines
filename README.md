@@ -5,7 +5,7 @@ This is a step-by-step project that guides you through the creation of both Wind
 
 <h2>🧰 Prerequisites</h2>
 
-- A free or paid <a href="https://azure.microsoft.com/en-us/free/">Microsoft Azure account</a>
+- A <a href="https://azure.microsoft.com/en-us/free/">Microsoft Azure account</a>
 <h2>🖥️ Environments & Tools Used</h2>
 
 - Microsoft Azure (Portal)

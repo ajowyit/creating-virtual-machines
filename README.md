@@ -16,7 +16,7 @@ This is a step-by-step project that guides you through the creation of both Wind
 - Windows 10 Pro (22H2) (virtual machine)
 - Ubuntu Server 22.04 (virtual machine)
 
-<h2>📋 Project Steps</h2>
+<h2>🪜 Project Steps</h2>
 
 - Create a Resource Group in Azure  
 - Create a Windows Virtual Machine (inside the same Resource Group)  

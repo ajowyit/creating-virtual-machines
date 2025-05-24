@@ -1,6 +1,8 @@
 <h1>Creating Windows and Linux Virtual Machines in Microsoft Azure</h1>
 
-This is a step-by-step Project that walks you through creating both Windows and Linux Virtual Machines (VMs) using the Microsoft Azure portal. It's designed for beginners in IT and cybersecurity to gain hands-on experience with cloud infrastructure.
+
+This is a step-by-step project that guides you through the creation of both Windows and Linux virtual machines using the Microsoft Azure portal. It walks through the entire process step-by-step, demonstrating how to set up and configure virtual machines in the cloud.
+
 <h2>🧰 Prerequisites</h2>
 
 - A free or paid <a href="https://azure.microsoft.com/en-us/free/">Microsoft Azure account</a>

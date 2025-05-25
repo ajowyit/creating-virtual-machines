@@ -20,7 +20,8 @@ This is a step-by-step project that guides you through the creation of both Wind
 
 - Create a Resource Group in Azure  
 - Create a Windows 10 Virtual Machine inside the Resource Group  
-- Create a Linux (Ubuntu) Virtual Machine inside the same Resource Group   
+- Create a Linux (Ubuntu) Virtual Machine inside the same Resource Group
+  
 <h2>☁️ Step 1: Create a Resource Group in Azure</h2>
 
 - Navigate to the [Azure Portal](https://portal.azure.com/) and sign in with your Microsoft account.

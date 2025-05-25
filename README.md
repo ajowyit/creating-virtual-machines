@@ -67,7 +67,7 @@ This is a step-by-step project that guides you through the creation of both Wind
   </p>
 
 > 💡 **Note:** Ensure you use the same region for all other resources (VMs, virtual networks, etc.) to maintain consistency and avoid compatibility issues.
-<h2>🪟 Step 2: Create a Windows Virtual Machine in Azure</h2>
+<h2>🪟 Step 2: Create a Windows 10 Virtual Machine inside the Resource Group</h2>
 
 - From the Azure Portal dashboard, locate the search bar at the top and search for **"Virtual machines"**.
 
@@ -141,7 +141,7 @@ This is a step-by-step project that guides you through the creation of both Wind
   </p>
 
 > 💡 **FYI:** RDP (Remote Desktop Protocol) allows you to access your Windows VM just like you would a physical computer. You’ll need the public IP address, username, and password you just created.
- <h2>🐧 Step 3: Create a Linux Virtual Machine in Azure</h2>
+ <h2>🐧 Step 3: Create a Linux (Ubuntu) Virtual Machine inside the same Resource Group</h2>
 
 - After deploying the Windows VM, you are automatically taken to the **Virtual Machine creation form** for your next VM. Let's now configure the Linux VM.
 

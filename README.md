@@ -24,9 +24,9 @@ This walkthrough will guide you through the process of creating Windows and Linu
   
 <h2>☁️ Step 1: Create a Resource Group in Microsoft Azure</h2>
 
-- Navigate to the [Azure Portal](https://portal.azure.com/) and sign in with your Microsoft account.
+- Log into the [Azure Portal](https://portal.azure.com/) by signing in with your Microsoft account.
 
-- In the top search bar, type **"Resource Groups"** and select it from the dropdown options.
+- Locate the search bar at the top, type in **"Resource Groups"** and select it from the dropdown options.
 
   <!-- Screenshot: Azure portal with "Resource Groups" being searched -->
   <p>

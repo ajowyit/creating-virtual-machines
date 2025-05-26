@@ -43,9 +43,9 @@ This walkthrough will guide you through the process of creating Windows and Linu
 
 
 - In the **Create Resource group** form:
-  - Ensure the correct **Subscription** is selected.
-  - Enter a name for your resource group (e.g., `VM-RG`).
-  - Choose a **Region** (recommended: **East US 2** - This region will be selected for ALL Region options coming forward as it will save you from encountaring future headaches).
+  - Make sure you select the correct **Subscription** which should be from when you set up your Microsoft Azure account.
+  - Enter a name to name your new Resource group (e.g., `VM-RG`). This Resource group is where our virtual machines will be stored in the Cloud.
+  - Choose a **Region** (recommended: Select the same region every time going forward as it may prevent future complications and headaches).
 
   <!-- Screenshot: Resource Group creation form filled out -->
   <p>

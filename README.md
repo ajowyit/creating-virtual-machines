@@ -66,14 +66,14 @@ This walkthrough will guide you through the process of creating Windows and Linu
     <img width="1200" alt="Screenshot 2025-05-26 at 3 28 32 PM" src="https://github.com/user-attachments/assets/a02e406b-ff77-425f-8c6f-8808e5452b93" />
   </p>
 
-> 💡 **Note:** Ensure you use the same region for all other resources (VMs, virtual networks, etc.) to maintain consistency and avoid compatibility issues.
+
 <h2>🪟 Step 2: Create a Windows 10 Virtual Machine inside the Resource Group</h2>
 
-- From the Azure Portal dashboard, locate the search bar at the top and search for **"Virtual machines"**.
+- Using the search bar at the top, type in **"Virtual machines"** and select it from the dropdown options.
 
   <!-- Screenshot: Azure Portal showing search for "Virtual machines" -->
   <p>
-    <img src="images/vm1.jpg" width="750" alt="Search for Virtual Machines in Azure portal" />
+    <img width="1200" alt="Screenshot 2025-05-26 at 4 45 01 PM" src="https://github.com/user-attachments/assets/843e77cf-dffa-4ce1-bcd7-e3847bea0414" />
   </p>
 
 - On the **Virtual Machines** page, click **+ Create** and then choose **Azure virtual machine** from the dropdown.

@@ -59,11 +59,11 @@ This walkthrough will guide you through the process of creating Windows and Linu
     <img width="1206" alt="Screenshot 2025-05-26 at 3 18 45 PM" src="https://github.com/user-attachments/assets/e58465e8-ed6b-4e02-8c3b-2e274a2d9b8c" />
   </p>
 
-- Once the deployment is complete, you’ll see your newly created resource group listed on the Resource Groups dashboard.
+- After you click **Create** and the deployment is complete, you’ll be directed back to the Resource groups page. You have successfully created a new Resource group in the Cloud and you will see your newly created resource group listed on the Resource groups dashboard.
 
   <!-- Screenshot: Resource Group successfully created and visible -->
   <p>
-    <img src="images/rg5.jpg" width="750" alt="Resource Group successfully created" />
+    <img width="1200" alt="Screenshot 2025-05-26 at 3 28 32 PM" src="https://github.com/user-attachments/assets/a02e406b-ff77-425f-8c6f-8808e5452b93" />
   </p>
 
 > 💡 **Note:** Ensure you use the same region for all other resources (VMs, virtual networks, etc.) to maintain consistency and avoid compatibility issues.

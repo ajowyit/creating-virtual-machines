@@ -30,8 +30,7 @@ This walkthrough will guide you through the process of creating Windows and Linu
 
   <!-- Screenshot: Azure portal with "Resource Groups" being searched -->
   <p>
-    <img width="1194" alt="Screenshot 2025-05-26 at 2 42 03 PM" src="https://github.com/user-attachments/assets/d7c43282-6a6a-4169-bfb1-cec5c50acb57" />
-  <img src="rg.jpg" width="750" alt="Search for Resource Groups in Azure portal" />
+    <img width="1200" alt="Screenshot 2025-05-26 at 2 50 42 PM" src="https://github.com/user-attachments/assets/55e74439-9f71-4076-a787-6b6f7d3de6d2" />
 </p>
 
 

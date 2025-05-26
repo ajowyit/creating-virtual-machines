@@ -52,11 +52,11 @@ This walkthrough will guide you through the process of creating Windows and Linu
     <img width="1200" alt="Screenshot 2025-05-26 at 3 01 48 PM" src="https://github.com/user-attachments/assets/8cce8869-b532-48f5-a693-435b42237925" />
   </p>
 
-- After entering the required information, click **Review + Create**, then click **Create** on the next screen to deploy the resource group.
+- After entering the required information, click **Review + Create**. Review the Resource group infomration. Once you are ready, click **Create** to deploy the resource group. It is recommended to take a note of the name and region of this Resource group for your future reference.
 
   <!-- Screenshot: Review + Create screen before final confirmation -->
   <p>
-    <img src="images/rg4.jpg" width="750" alt="Review + Create screen" />
+    <img width="1206" alt="Screenshot 2025-05-26 at 3 18 45 PM" src="https://github.com/user-attachments/assets/e58465e8-ed6b-4e02-8c3b-2e274a2d9b8c" />
   </p>
 
 - Once the deployment is complete, you’ll see your newly created resource group listed on the Resource Groups dashboard.

@@ -18,18 +18,19 @@ This walkthrough will guide you through the process of creating Windows and Linu
 
 <h2>🪜 Project Steps</h2>
 
-- Create a Resource Group in Azure  
-- Create a Windows 10 Virtual Machine inside the Resource Group  
-- Create a Linux (Ubuntu) Virtual Machine inside the same Resource Group
+- Create a Resource group in Azure  
+- Create a Windows 10 Virtual Machine inside the Resource group  
+- Create a Linux (Ubuntu) Virtual Machine inside the same Resource group
   
 <h2>☁️ Step 1: Create a Resource Group in Microsoft Azure</h2>
 
 - Log into the [Azure Portal](https://portal.azure.com/) by signing in with your Microsoft account.
 
-- Locate the search bar at the top, type in **"Resource Groups"** and select it from the dropdown options.
+- Locate the search bar at the top, type in **"Resource groups"** and select it from the dropdown options.
 
   <!-- Screenshot: Azure portal with "Resource Groups" being searched -->
   <p>
+    <img width="1194" alt="Screenshot 2025-05-26 at 2 42 03 PM" src="https://github.com/user-attachments/assets/d7c43282-6a6a-4169-bfb1-cec5c50acb57" />
   <img src="rg.jpg" width="750" alt="Search for Resource Groups in Azure portal" />
 </p>
 
@@ -42,7 +43,7 @@ This walkthrough will guide you through the process of creating Windows and Linu
   </p>
 
 
-- In the **Create Resource Group** form:
+- In the **Create Resource group** form:
   - Ensure the correct **Subscription** is selected.
   - Enter a name for your resource group (e.g., `VM-RG`).
   - Choose a **Region** (recommended: **East US 2** - This region will be selected for ALL Region options coming forward as it will save you from encountaring future headaches).

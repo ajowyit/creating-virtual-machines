@@ -6,11 +6,11 @@ This is a step-by-step project that guides you through the creation of both Wind
 <h2>🧰 Prerequisites</h2>
 
 - A <a href="https://azure.microsoft.com/en-us/free/">Microsoft Azure account</a>
-<h2>🖥️ Environments & Tools Used</h2>
+<h2>🖥️ Environments & Tools</h2>
 
 - Microsoft Azure
 
-<h2>🧑‍💻 Operating Systems Used</h2>
+<h2>🧑‍💻 Operating Systems</h2>
 
 - macOS Sequoia (host system)
 - Windows 10 Pro (22H2) (virtual machine)

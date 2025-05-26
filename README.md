@@ -34,11 +34,11 @@ This walkthrough will guide you through the process of creating Windows and Linu
 </p>
 
 
-- On the Resource Groups page, click on **+ Create** to begin creating a new resource group.
+- Once on the Resource Groups page, click **+ Create** to start the process of creating a new resource group.
 
   <!-- Screenshot: Click on Create button in Resource Groups -->
   <p>
-    <img src="images/rg2.jpg" width="750" alt="Describe your image" />
+    <img width="1200" alt="Screenshot 2025-05-26 at 2 55 16 PM" src="https://github.com/user-attachments/assets/81c025b9-18a0-4bb6-978c-65c392fc81a5" />
   </p>
 
 

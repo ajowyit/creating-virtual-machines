@@ -202,7 +202,7 @@ This walkthrough will guide you through the process of creating Windows and Linu
   </p>
   <h2>✅ Conclusion</h2>
 
-  This concludes the project. We successfully created a Resource Group, a Windows VM running Windows 10 Pro, and a Linux VM running Ubuntu in Microsoft Azure. 
+This concludes the project. We successfully created a Resource Group, a Windows VM running Windows 10 Pro, and a Linux VM running Ubuntu in Microsoft Azure. 
 
 Using just my MacBook, I was able to set up and access two additional virtual machines, each running a different operating system—without any need for extra hardware or physical space. This showcases the efficiency and cost-effectiveness of Cloud Service Providers (CSPs) like Azure, making powerful computing resources easily accessible for both individuals and organizations.
 

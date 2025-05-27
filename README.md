@@ -83,15 +83,15 @@ This walkthrough will guide you through the process of creating Windows and Linu
     <img width="1200" alt="Screenshot 2025-05-26 at 4 47 12 PM" src="https://github.com/user-attachments/assets/14daa173-cf28-451a-80e1-8c3b2d081401" />
   </p>
 
-- In the **Basics** tab of the Create VM form:
-  - Select the same **Resource Group** you created earlier (e.g., `VM-RG`)
-  - Enter the **Virtual Machine name**: `windows-vm`
-  - Choose the same **Region** as your resource group (e.g., East US 2)
+- In the **Basics** tab of the **Create a virtual machine** form:
+  - Select the same **Resource group** that you created earlier 
+  - Enter a name for the new virtual machine in **Virtual machine name**
+  - Select the same **Region** as your Resource group (Ours was East US)
   - For **Image**, select: **Windows 10 Pro, version 22H2**
 
   <!-- Screenshot: Basics tab with name, region, and image filled -->
   <p>
-    <img src="images/vm3.jpg" width="750" alt="Filled Basics tab for Windows VM" />
+    <img width="1200" alt="Screenshot 2025-05-26 at 6 10 41 PM" src="https://github.com/user-attachments/assets/e5646081-586c-48c3-a0c6-e86cd1f2a72c" />
   </p>
 
 - Under **Size**, select:

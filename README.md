@@ -101,33 +101,31 @@ This walkthrough will guide you through the process of creating Windows and Linu
   <!-- Screenshot: VM size selection screen -->
   <p>
     <img width="1200" alt="Screenshot 2025-05-26 at 6 22 17 PM" src="https://github.com/user-attachments/assets/3568487e-a7d9-4a81-a2c1-dafb27929620" />
-
-    <img src="images/vm4.jpg" width="750" alt="Choose VM size Standard_D2s_v5" />
   </p>
 
 - In the **Administrator Account** section:
-  - Choose **Username** and **Password** (save this info — it’s needed for RDP login later)
-  - Under **Licensing**, check the box to confirm you have a license for Windows 10
+  - Create a **Username** and **Password** and make a note of it or write it down somewhere. You will need it to log in to Remote Desktop later.
+  - Check the box under **Licensing**. Click **Next: Disks >** to move on.
 
   <!-- Screenshot: Admin username/password fields and licensing checkbox -->
   <p>
-    <img src="images/vm5.jpg" width="750" alt="Admin username and license agreement" />
+    <img width="1200" alt="Screenshot 2025-05-26 at 6 26 54 PM" src="https://github.com/user-attachments/assets/d322aee3-24d5-40b9-a57e-0e5f44e79fef" />
   </p>
 
-- Click **Next: Disks** and leave the default settings.
+- Leave the Disk settings at default. Click **Next: Networking >** to move on to set up the virtual network for our virtual machine.
 
 - Click **Next: Networking** and configure the following:
-  - Azure may auto-generate a **Virtual Network**; you can use it or name your own.
-  - Leave **Subnet** and **Public IP** as default
-  - Ensure **RDP (Port 3389)** is enabled so you can connect to your VM
+  - Azure might auto-generate a **Virtual Network**. You can either use this one or create your own.
+  - Leave the default **Subnet** and **Public IP** 
+  - Make sure **RDP (3389)** is selected as an inbound port under **Select inbound ports** so you will be able to your virtual machine
 
   <!-- Screenshot: Networking tab with RDP selected and virtual network configured -->
   <p>
-    <img src="images/vm6.jpg" width="750" alt="Networking tab configuration with RDP" />
+    <img width="1200" alt="Screenshot 2025-05-26 at 6 44 56 PM" src="https://github.com/user-attachments/assets/ed4f274e-ec8b-4f9d-8fb8-b91732af456a" />
   </p>
 
-- Click **Review + Create** to review your configuration.
-  - Double-check: Resource Group, Region, VM name, OS image, and RDP access.
+- Click **Review + Create** to move on and start reviewing your configuration.
+- Look over Resource Group, Region, Virtual machine name, OS image, and RDP access.
 
   <!-- Screenshot: Review + Create summary for Windows VM -->
   <p>

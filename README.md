@@ -94,12 +94,14 @@ This walkthrough will guide you through the process of creating Windows and Linu
     <img width="1200" alt="Screenshot 2025-05-26 at 6 10 41 PM" src="https://github.com/user-attachments/assets/e5646081-586c-48c3-a0c6-e86cd1f2a72c" />
   </p>
 
-- Under **Size**, select:
-  - **Standard_D2s_v3** (2 vCPUs, 8 GiB memory)
-  - If this size is not visible, click **See all sizes** and select one with similar specs.
+- Scroll down. Under **Size**, select:
+  - **Standard_D2s_v6** (2 vCPUs, 8 GiB memory)
+  - If this size is not available, click **See all sizes** for other options and select another size with at least 2 vCPUs and 8 GiB of memory.
 
   <!-- Screenshot: VM size selection screen -->
   <p>
+    <img width="1200" alt="Screenshot 2025-05-26 at 6 22 17 PM" src="https://github.com/user-attachments/assets/3568487e-a7d9-4a81-a2c1-dafb27929620" />
+
     <img src="images/vm4.jpg" width="750" alt="Choose VM size Standard_D2s_v5" />
   </p>
 

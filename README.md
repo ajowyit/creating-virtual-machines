@@ -132,15 +132,14 @@ This walkthrough will guide you through the process of creating Windows and Linu
     <img width="1200" alt="Screenshot 2025-05-26 at 6 44 56 PM" src="https://github.com/user-attachments/assets/5c38c2b2-2bc5-4671-b3fc-f28943e064d7" />
   </p>
 
-- Once the deployment is complete, you'll see a confirmation message.
-  - Click **Go to resource** to manage or connect to your VM.
+- Once deployment is complete, you'll see a message on your screen saying **Your deployment is complete**. Congrats! We just created our first virtual machine in the Cloud. Now let's create a Linux virtual machine.
 
   <!-- Screenshot: Deployment complete and VM overview screen -->
   <p>
-    <img src="images/vm8.jpg" width="750" alt="VM deployment complete screen" />
+    <img width="1200" alt="Screenshot 2025-05-26 at 7 18 31 PM" src="https://github.com/user-attachments/assets/f06f4065-93a4-44df-833a-c166cd95b610" />
   </p>
 
-> 💡 **FYI:** RDP (Remote Desktop Protocol) allows you to access your Windows VM just like you would a physical computer. You’ll need the public IP address, username, and password you just created.
+
  <h2>🐧 Step 3: Create a Linux (Ubuntu) Virtual Machine inside the same Resource Group</h2>
 
 - After deploying the Windows VM, you are automatically taken to the **Virtual Machine creation form** for your next VM. Let's now configure the Linux VM.

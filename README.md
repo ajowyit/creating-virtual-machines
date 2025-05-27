@@ -182,15 +182,15 @@ This walkthrough will guide you through the process of creating Windows and Linu
     <img width="1200" alt="Screenshot 2025-05-26 at 7 51 46 PM" src="https://github.com/user-attachments/assets/1894d8c3-2173-4fb6-b0d7-166604ce0bd2" />
   </p>
 
-- Click **Review + Create** and verify:
-  - VM name is `linux-vm`
-  - OS is Ubuntu 22.04
-  - SSH is enabled
-  - Region and Resource Group match the previous VM
-
+- Click **Review + Create** and look over the:
+  - Virtual machine name
+  - Image is Ubuntu 22.04
+  - SSH is enabled in Public Inbound Ports
+  - Region and Resource Group are the same as the Windows virtual machine
+  
   <!-- Screenshot: Review + Create screen for Linux VM -->
   <p>
-    <img src="images/lvm4.jpg" width="750" alt="Review and Create screen for Linux VM" />
+    <img width="1200" alt="Screenshot 2025-05-26 at 7 53 30 PM" src="https://github.com/user-attachments/assets/7b71cda2-c3a8-45ae-bd16-65ff992a8755" />
   </p>
 
 - Click **Create** to deploy the Linux virtual machine.

@@ -76,11 +76,11 @@ This walkthrough will guide you through the process of creating Windows and Linu
     <img width="1200" alt="Screenshot 2025-05-26 at 4 45 01 PM" src="https://github.com/user-attachments/assets/843e77cf-dffa-4ce1-bcd7-e3847bea0414" />
   </p>
 
-- On the **Virtual Machines** page, click **+ Create** and then choose **Azure virtual machine** from the dropdown.
+- On the **Virtual machines** page, click **+ Create** and then click **Azure virtual machine** from the dropdown options.
 
   <!-- Screenshot: Virtual Machines page with "+ Create" button and dropdown -->
   <p>
-    <img src="images/vm2.jpg" width="750" alt="Create new virtual machine dropdown" />
+    <img width="1200" alt="Screenshot 2025-05-26 at 4 47 12 PM" src="https://github.com/user-attachments/assets/14daa173-cf28-451a-80e1-8c3b2d081401" />
   </p>
 
 - In the **Basics** tab of the Create VM form:

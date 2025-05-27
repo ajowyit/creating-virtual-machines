@@ -1,8 +1,6 @@
 <h1>Creating Windows and Linux Virtual Machines in Microsoft Azure</h1>
 
-
-This walkthrough will guide you through the process of creating Windows and Linux virtual machines in Microsoft Azure. It will walk through the entire process step-by-step, demonstrating how to set up and configure virtual machines for hands-on experience with cloud infrastructure.
-
+In this project, we explore network traffic between two Azure Virtual Machines using Wireshark and PowerShell. We analyze communication patterns to better understand how data flows within a virtual network. Additionally, we demonstrate how to configure Network Security Groups (NSGs) to control inbound and outbound traffic, showcasing how they enhance the security and management of cloud-based resources.
 <h2>🧰 Prerequisites</h2>
 
 - A <a href="https://azure.microsoft.com/en-us/free/">Microsoft Azure account</a>

@@ -156,21 +156,20 @@ This walkthrough will guide you through the process of creating Windows and Linu
   </p>
 
 - Under **Size**, select:
-  - **Standard_D2s_v3** (2 vCPUs, 8 GiB memory) or a similar configuration if unavailable
+  - **Standard_D2s_v6** (2 vCPUs, 8 GiB memory) or a similar configuration from the dropdown options if this one isn't available
 
   <!-- Screenshot: VM size selected for Linux -->
   <p>
-    <img src="images/lvm2.jpg" width="750" alt="Linux VM size selection" />
+    <img width="1200" alt="Screenshot 2025-05-26 at 7 29 00 PM" src="https://github.com/user-attachments/assets/2491a946-c00a-4307-8964-7301a74d0934" />
   </p>
 
 - In the **Administrator Account** section:
-  - Change **Authentication type** from SSH to **Password**
-  - Set a **username** and **password**  
-    *(You can reuse the same credentials used for the Windows VM to keep things simple)*
+  - Change the **Authentication type** to **Password** instead of SSH
+  - Set a **username** and **password**. To make it easy we can use the same credentials we used for the Windows virtual machine
 
   <!-- Screenshot: Linux admin account section with password authentication selected -->
   <p>
-    <img src="images/lvm6.jpg" width="750" alt="Linux VM admin setup with password authentication" />
+    <img width="1200" alt="Screenshot 2025-05-26 at 7 45 15 PM" src="https://github.com/user-attachments/assets/52543623-cdda-4ca9-a755-9a437a40b632" />
   </p>
 
 - Click **Next: Disks** and leave all options at their defaults.

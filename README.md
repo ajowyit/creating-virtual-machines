@@ -193,22 +193,21 @@ This walkthrough will guide you through the process of creating Windows and Linu
     <img width="1200" alt="Screenshot 2025-05-26 at 7 53 30 PM" src="https://github.com/user-attachments/assets/7b71cda2-c3a8-45ae-bd16-65ff992a8755" />
   </p>
 
-- Click **Create** to deploy the Linux virtual machine.
-
-- After deployment completes, you will be taken to the **VM overview** screen.
+- Click **Create**. You will be taken to the **Overview** screen and you will see a message that says **Yout deployment is complete** once the virtual machine has successfully been deployed.
 
   <!-- Screenshot: Linux VM deployment complete -->
   <p>
-    <img src="images/lvm5.jpg" width="750" alt="Linux VM successfully deployed" />
+    <img width="1200" alt="Screenshot 2025-05-26 at 8 09 50 PM" src="https://github.com/user-attachments/assets/6965ae0f-0c61-46c5-bb31-98188ec62844" />
+
   </p>
   <h2>✅ Conclusion</h2>
 
-  This concludes the project. We successfully created a Resource Group, a Windows VM running Windows 10 Pro, and a Linux VM running Ubuntu in Microsoft Azure. This setup highlights the power and flexibility of cloud computing and virtualization.
+  This concludes the project. We successfully created a Resource Group, a Windows VM running Windows 10 Pro, and a Linux VM running Ubuntu in Microsoft Azure. 
 
-  With just one system—running Windows 11, I now have access to two additional machines, each running a different operating system, without needing any extra hardware or physical space. This clearly demonstrates the efficiency and cost-effectiveness that Cloud Service Providers (CSPs) like Azure offer to both individuals and organizations.
+Using just my MacBook, I was able to set up and access two additional virtual machines, each running a different operating system—without any need for extra hardware or physical space. This showcases the efficiency and cost-effectiveness of Cloud Service Providers (CSPs) like Azure, making powerful computing resources easily accessible for both individuals and organizations.
 
-  Don’t forget to stop (turn off) your VMs when not in use to avoid unnecessary charges.  
-  Thank you for checking out this project — more coming soon! 🚀
+Remember to stop/turn off virtual machines when they are not being used to avoid unnecessary charges.  
+
 
 
 

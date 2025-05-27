@@ -112,8 +112,7 @@ This walkthrough will guide you through the process of creating Windows and Linu
     <img width="1200" alt="Screenshot 2025-05-26 at 6 26 54 PM" src="https://github.com/user-attachments/assets/d322aee3-24d5-40b9-a57e-0e5f44e79fef" />
   </p>
 
-- Leave the Disk settings at default. Click **Next: Networking >** to move on to set up the virtual network for our virtual machine.
-
+- Leave the Disk settings at default. 
 - Click **Next: Networking** and configure the following:
   - Azure might auto-generate a **Virtual Network**. You can either use this one or create your own.
   - Leave the default **Subnet** and **Public IP** 
@@ -172,16 +171,15 @@ This walkthrough will guide you through the process of creating Windows and Linu
     <img width="1200" alt="Screenshot 2025-05-26 at 7 45 15 PM" src="https://github.com/user-attachments/assets/52543623-cdda-4ca9-a755-9a437a40b632" />
   </p>
 
-- Click **Next: Disks** and leave all options at their defaults.
-
+- Click **Next: Disks** and leave the Disk settings at default
 - Click **Next: Networking**, and configure:
-  - Select the **same Virtual Network** used by the Windows VM
+  - **Virtual network**: Select the same one used by the Windows VM
   - Leave Subnet, Public IP, and other settings as default
-  - Ensure **SSH (Port 22)** is allowed
+  - Make sure **SSH (Port 22)** is selected in **Select inbound ports**
 
   <!-- Screenshot: Networking tab for Linux VM with SSH enabled -->
   <p>
-    <img src="images/lvm3.jpg" width="750" alt="Linux VM networking configuration with SSH access" />
+    <img width="1200" alt="Screenshot 2025-05-26 at 7 51 46 PM" src="https://github.com/user-attachments/assets/1894d8c3-2173-4fb6-b0d7-166604ce0bd2" />
   </p>
 
 - Click **Review + Create** and verify:

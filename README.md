@@ -125,11 +125,11 @@ This walkthrough will guide you through the process of creating Windows and Linu
   </p>
 
 - Click **Review + Create** to move on and start reviewing your configuration.
-- Look over Resource Group, Region, Virtual machine name, OS image, and RDP access.
+- Look over Resource Group, Region, Virtual machine name, Image (operating system image), and Public inbound ports (for RDP access).
 
   <!-- Screenshot: Review + Create summary for Windows VM -->
   <p>
-    <img src="images/vm7.jpg" width="750" alt="Review and Create screen for Windows VM" />
+    <img width="1200" alt="Screenshot 2025-05-26 at 6 44 56 PM" src="https://github.com/user-attachments/assets/5c38c2b2-2bc5-4671-b3fc-f28943e064d7" />
   </p>
 
 - Once the deployment is complete, you'll see a confirmation message.

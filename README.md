@@ -142,17 +142,17 @@ This walkthrough will guide you through the process of creating Windows and Linu
 
  <h2>🐧 Step 3: Create a Linux (Ubuntu) Virtual Machine inside the same Resource Group</h2>
 
-- After deploying the Windows VM, you are automatically taken to the **Virtual Machine creation form** for your next VM. Let's now configure the Linux VM.
+- Time for the next virtual machine. Let's configure the Linux one now.
 
 - In the **Basics** tab:
-  - Select the same **Resource Group** used for your Windows VM (e.g., `VM-RG`)
-  - Name the virtual machine: `linux-vm`
-  - Choose the same **Region** as before (e.g., East US 2)
-  - For **Image**, select **Ubuntu Server 22.04 LTS**
+  - Select the same **Resource Group** used for the Windows virtual machine we just made 
+  - In **Name** type in a name for the new virtual machine
+  - Select the same **Region** we chose before (we chose East US)
+  - Select **Ubuntu Server 22.04 LTS** for **Image**
 
   <!-- Screenshot: Basics tab filled for Linux VM -->
   <p>
-    <img src="images/lvm1.jpg" width="750" alt="Basics tab for Linux VM with Ubuntu image" />
+    <img width="1200" alt="Screenshot 2025-05-26 at 7 24 40 PM" src="https://github.com/user-attachments/assets/2121b37d-b0a5-4921-a22b-94f8b5c7c4da" />
   </p>
 
 - Under **Size**, select:
